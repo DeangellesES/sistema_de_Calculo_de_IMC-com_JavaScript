@@ -17,7 +17,7 @@ Layout de cliente adicionado pelo formulário
 ![pacienteFormulario](https://github.com/DeangellesES/Sistema_de_Calculo_de_IMC-com_JavaScript/blob/main/clienteAdicionado.png)
 
 
-Layout com erro no peso e altura
+Layout com erro no peso e altura do cliente
 ![erroPesoEAltura](https://github.com/DeangellesES/Sistema_de_Calculo_de_IMC-com_JavaScript/blob/main/erroPesoAltura.png)
 
 Layout do filtro sendo utilizado
